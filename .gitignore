@@ -1,0 +1,9 @@
+/*.aux
+/*.bbl
+/*.blg
+/*.pdf
+/*.gz
+/*.log
+
+.DS_Store
+
